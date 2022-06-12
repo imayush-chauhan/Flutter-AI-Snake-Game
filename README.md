@@ -1,6 +1,8 @@
-# ai_snake
+# Flutter AI Snake Game
 
 A new Flutter project.
+
+![](screenshot/Screenshot%20(802).png)
 
 ## Getting Started
 
